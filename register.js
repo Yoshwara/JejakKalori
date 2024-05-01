@@ -13,7 +13,7 @@ document.getElementById("registrationForm").addEventListener("submit", function(
         alert("Registration successful!");
 
         // Redirect ke halaman login
-        window.location.href = "LoginJejakKalori.html";
+        window.location.href = "index.html";
     } else {
         alert("Password confirmation doesn't match!");
     }

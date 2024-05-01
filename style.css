@@ -1,0 +1,218 @@
+.slide {
+    background-color: #9b4444;
+
+    width:  4000px;
+    height: 2000px;
+  }
+  
+  
+  .slide .overlap-group {
+    position: relative;
+    width: 1575px;
+    height: 827px;
+    top: 127px;
+    left: 173px;
+    background-image: url(./img/rectangle-1.svg);
+    background-size: 100% 100%;
+  }
+  
+  .slide .sudah-punya-akun {
+    position: absolute;
+    width: 560px;
+    top: 657px;
+    left: 974px;
+    font-family: "Inria Serif-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    z-index: 999;
+  }
+  
+  
+  .slide .span {
+    color: #9b4444;
+  }
+  
+  .slide .overlap {
+    position: absolute;
+    width: 392px;
+    height: 80px;
+    top: 562px;
+    left: 1058px;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+  }
+  
+  .slide .div {
+    position: absolute;
+    width: 343px;
+    top: 13px;
+    left: 24px;
+    font-family: "Inria Serif-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .slide .rectangle {
+    top: 666px;
+    position: absolute;
+    width: 732px;
+    height: 69px;
+    left: 117px;
+  }
+  
+  .slide .text-wrapper-2 {
+    position: absolute;
+    top: 473px;
+    left: 117px;
+    font-family: "Inria Serif-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .slide .img {
+    top: 527px;
+    position: absolute;
+    width: 732px;
+    height: 69px;
+    left: 117px;
+  }
+  
+  .slide .text-wrapper-3 {
+    position: absolute;
+    top: 612px;
+    left: 117px;
+    font-family: "Inria Serif-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .slide .text-wrapper-4 {
+    position: absolute;
+    top: 329px;
+    left: 117px;
+    font-family: "Inria Serif-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .slide .rectangle-2 {
+    top: 388px;
+    position: absolute;
+    width: 732px;
+    height: 69px;
+    left: 117px;
+  }
+  .nama_lengkap {
+    top: 239px;
+    position: absolute;
+    width: 732px;
+    height: 69px;
+    left: 117px;
+    font-size: 2em;
+  }
+
+  .email_pengguna {
+    top: 388px;
+    position: absolute;
+    width: 732px;
+    height: 69px;
+    left: 117px;
+    font-size: 2em;
+  }
+
+  .password {
+    top: 527px;
+    position: absolute;
+    width: 732px;
+    height: 69px;
+    left: 117px;
+    font-size: 2em;
+  }
+
+  .ulangi_password {
+    top: 666px;
+    position: absolute;
+    width: 732px;
+    height: 69px;
+    left: 117px;
+    font-size: 2em;
+  }
+  .submit_daftar {
+    position: absolute;
+    width: 392px;
+    height: 80px;
+    top: 562px;
+    left: 1058px;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    font-size: 2em;
+  }
+  .slide .text-wrapper-5 {
+    position: absolute;
+    top: 180px;
+    left: 117px;
+    font-family: "Inria Serif-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .slide .rectangle-3 {
+    top: 239px;
+    position: absolute;
+    width: 732px;
+    height: 69px;
+    left: 117px;
+  }
+  .slide .line {
+    position: absolute;
+    width: 331px;
+    height: 1px;
+    top: 132px;
+    left: 117px;
+    object-fit: cover;
+  }
+  
+  .slide .text-wrapper-6 {
+    position: absolute;
+    width: 340px;
+    height: 51px;
+    top: 59px;
+    left: 49px;
+    font-family: "Inknut Antiqua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  

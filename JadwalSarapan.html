@@ -1,0 +1,171 @@
+<!DOCTYPE html><html><head><link href="https://fonts.googleapis.com/css?family=Inria+Serif&display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Inknut+Antiqua&display=swap" rel="stylesheet" />
+    <link href="CSSJadwalSarapan.css" rel="stylesheet" /><title>Document</title></head>
+    <body>
+        <div class="v2_142">
+            <div class="v5_379"></div>
+            <div class="v19_7"></div>
+            <div class="v162_25"></div>
+            <div class="v19_9"></div>
+            <div class="v162_9"></div>
+            <div class="v19_20"></div>
+            <div class="v162_10"></div>
+            <div class="v162_27"></div>
+            <div class="v162_11"></div>
+            <div class="v162_12"></div>
+            <div class="v162_13"></div>
+            <div class="v51_463"></div>
+            <div class="v52_464"></div>
+            <div class="v19_11"></div>
+            <div class="v19_14"></div>
+            <div class="rectangle_14"></div>
+            <div class="Rectangle_23"></div>
+            <div class="bulan_Selesai"></div>
+            <div class="kembali"></div>
+            <div class="bulan"></div>
+            <div class="tahun"></div>
+            <div class="rectangle_27"></div>
+            <div class="rectangle_26"></div>
+            <div class="rincian_kalori_1"></div>
+            <div class="v162_14"><div class="Tanggal"></div>
+            </div><span class="v19_10">Tanggal/Bulan/Tahun</span><span class="v162_26">Riwayat Informasi Sarapan</span><span class="v162_16">Makanan Pagi</span><span class="v162_17">Minuman Pagi</span><span class="v162_18">Makanan Siang</span><span class="v162_19">Minuman Siang</span>
+            <span class="v162_20">Makanan Malam</span>
+            <span class="v162_21">Minuman Malam</span>
+            <span class="v5_460">SARAPAN PAGI</span><span class="v162_2">SARAPAN SIANG</span><span class="v162_3">SARAPAN MALAM</span><div class="v19_30"></div><div class="v162_22"></div><div class="v5_462"></div><div class="v162_7"></div><div class="v162_6"></div><div class="v5_463"></div>
+            <span class="v19_31">Target Kalori</span><span class="v19_3">JADWAL SARAPAN</span><div class="v19_32"></div></div>
+            <a href="identitas.html" class="rectangle_27">KEMBALI</a>
+            <a href="RincianKalori.html" class="rectangle_26">TAMBAHKAN MENU</a></body></html>
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+#savedInfo {
+  overflow-y: auto;
+  max-height: 700px; /* Atur ketinggian maksimum kotak gulir di sini */
+  border: 1 px inset #ccc;
+  border-radius: 1px 10px 10px 1px;
+  top: -1095px;
+  left: 1040px;
+  position: relative;
+  z-index: 999;
+  font-size: 15px;
+  
+ 
+}
+</style>
+</head>
+<body>
+<input type="date" id="date" name="date" onchange="clearTargetCalories()" style="position: absolute;
+width: 454px;
+height: 63px;
+left: 295px;
+top: 210px;
+
+background: #FF8080;
+border-radius: 10px;
+z-index: 999;
+font-size: 30px;
+align-content: center;">
+
+<select id="breakfastFoodList" style="position: absolute;
+width: 361px;
+height: 61px;
+left: 113px;
+top: 390px;
+
+background: #FF8080;
+border-radius: 10px;
+font-size: 30px;"></select>
+
+<select id="breakfastDrinkList" style="position: absolute;
+width: 361px;
+height: 61px;
+left: 545px;
+top: 390px;
+
+background: #FF8080;
+border-radius: 10px; z-index: 999; font-size: 30px; "></select>
+
+<select id="lunchFoodList" style="position: absolute;
+width: 361px;
+height: 61px;
+left: 113px;
+top: 621px;
+z-index: 999;
+font-size: 30px;
+
+background: #FF8080;
+border-radius: 10px;
+"></select>
+
+<select id="lunchDrinkList" style="position: absolute;
+width: 361px;
+height: 61px;
+left: 545px;
+top: 621px;
+z-index: 999;
+background: #FF8080;
+border-radius: 10px; font-size: 30px;"></select>
+
+
+<select id="dinnerFoodList" style="position: absolute;
+width: 361px;
+height: 61px;
+left: 113px;
+top: 838px;
+
+background: #FF8080;
+border-radius: 10px;
+font-size: 30px;"></select>
+
+
+<select id="dinnerDrinkList" style="position: absolute;
+width: 361px;
+height: 61px;
+left: 545px;
+top: 832px;
+font-size: 30px;
+
+background: #FF8080;
+border-radius: 10px;
+"></select>
+
+<input type="number" id="target" name="target" style="position: absolute;
+width: 189px;
+height: 52px;
+left: 295px;
+top: 997px;
+
+background: #FF8080;
+border-radius: 10px; font-size: 30px;">
+<button onclick="saveBreakfast()" style="position: absolute;
+width: 361px;
+height: 93px;
+left: 608px;
+top: 976px;
+font-size: 30px;
+font-family: 'inria sans-serif';
+background: #D9D9D9;
+border-radius: 10px;">Simpan Sarapan</button>
+
+<div id="savedInfo">
+  <h3>Riwayat Informasi Sarapan yang Disimpan</h3>
+  <div id="history" style="width: 825px;" ></div>
+</div>
+
+<script src="JadwalSarapan.js">
+</script>
+
+</body>
+</html>

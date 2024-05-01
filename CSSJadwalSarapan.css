@@ -1,0 +1,1258 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .v2_142 {
+    width: 100%;
+    height: 1280px;
+    background: rgba(155,68,68,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+  
+  .rectangle_14 {
+    /* Rectangle 14 */
+
+position: absolute;
+width: 417px;
+height: 92px;
+left: 70px;
+top: 969px;
+
+background: #D9D9D9;
+border-radius: 10px;
+
+  }
+
+
+
+.rectangle_26 {
+  /* Rectangle 26 */
+
+position: absolute;
+width: 370px;
+height: 93px;
+left: 1534px;
+top: 968px;
+
+background: #D9D9D9;
+border-radius: 10px;
+
+/* RINCIAN KALORI */
+
+position: absolute;
+width: 300px;
+height: 36px;
+left: 1570px;
+top: 997px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+}
+
+.rectangle_27 {
+  /* Rectangle 27 */
+
+position: absolute;
+width: 361px;
+height: 93px;
+left: 1003px;
+top: 968px;
+/* KEMBALI */
+
+position: absolute;
+width: 126px;
+height: 36px;
+left: 1121px;
+top: 996px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+background: #D9D9D9;
+border-radius: 10px;
+
+}
+  .v19_7 {
+/* Rectangle 6 */
+
+position: absolute;
+width: 891px;
+height: 807px;
+left: 69px;
+top: 135px;
+
+background: #D9D9D9;
+border-radius: 10px;
+
+  }
+.v162_18 {
+  /* Makanan Siang */
+
+position: absolute;
+width: 212px;
+height: 36px;
+left: 181px;
+top: 567px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+}
+.v162_19 {
+  /* Minuman Siang */
+
+position: absolute;
+width: 217px;
+height: 36px;
+left: 608px;
+top: 567px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+}
+  .v19_9 {
+/* Rectangle 8 */
+
+position: absolute;
+width: 454px;
+height: 63px;
+left: 287px;
+top: 203px;
+
+background: #FF8080;
+border-radius: 10px;
+z-index: 999;
+font-size: 30px;
+align-content: center;
+
+  }
+  
+  .Tanggal {
+/* Rectangle 18 */
+
+position: absolute;
+width: 361px;
+height: 61px;
+left: 536px;
+top: 383px;
+
+background: #FF8080;
+border-radius: 10px;
+
+  }
+  .v19_11 {
+/* Rectangle 17 */
+
+position: absolute;
+width: 361px;
+height: 61px;
+left: 105px;
+top: 383px;
+
+background: #FF8080;
+border-radius: 10px;
+
+  
+  }
+.v162_20 {
+  /* Makanan Malam */
+
+position: absolute;
+width: 230px;
+height: 36px;
+left: 163px;
+top: 789px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+}
+.v162_21 {
+  /* Minuman Malam */
+
+position: absolute;
+width: 235px;
+height: 36px;
+left: 590px;
+top: 782px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+}
+
+
+  .v162_2 {
+    /* SARAPAN SIANG */
+
+position: absolute;
+width: 316px;
+height: 44px;
+left: 105px;
+top: 513px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 22px;
+/* or 62% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 1px;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+
+
+  }
+
+.v162_3 {
+/* SARAPAN MALAM */
+
+position: absolute;
+width: 317px;
+height: 44px;
+left: 105px;
+top: 724px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 22px;
+/* or 62% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 1px;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+}
+
+.v162_26 {
+  /* Riwayat Informasi Sarapan */
+
+position: absolute;
+width: 373px;
+height: 36px;
+left: 1263px;
+top: 143px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+z-index: 999;
+
+color: #000000;
+
+
+
+}
+  
+  .bulan {
+/* Rectangle 19 */
+
+position: absolute;
+width: 361px;
+height: 61px;
+left: 105px;
+top: 614px;
+
+background: #FF8080;
+border-radius: 10px;
+
+
+  }
+  
+  .v19_14 {
+/* Rectangle 20 */
+
+position: absolute;
+width: 361px;
+height: 61px;
+left: 536px;
+top: 614px;
+
+background: #FF8080;
+border-radius: 10px;
+
+  
+  }
+  
+  .tahun {
+/* Rectangle 21 */
+
+position: absolute;
+width: 361px;
+height: 61px;
+left: 105px;
+top: 831px;
+
+background: #FF8080;
+border-radius: 10px;
+
+  
+  }
+  .v19_10 {
+/* Tanggal/Bulan/Tahun */
+
+position: absolute;
+width: 298px;
+height: 36px;
+left: 361px;
+top: 153px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+  
+  
+  }
+  .v19_12 {
+    width: 80px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 248px;
+    left: 462px;
+    font-family: Inria Serif;
+    font-weight: Regular;
+    font-size: 30px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v19_15 {
+    width: 29px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 250px;
+    left: 345px;
+    font-family: Inria Serif;
+    font-weight: Regular;
+    font-size: 30px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v19_16 {
+    width: 29px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 250px;
+    left: 621px;
+    font-family: Inria Serif;
+    font-weight: Regular;
+    font-size: 30px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v19_20 {
+/* Rectangle 25 */
+
+position: absolute;
+width: 837px;
+height: 730px;
+left: 1034px;
+top: 189px;
+
+background: #FF8080;
+border-radius: 10px;
+z-index: 999;
+
+  }
+.kembali {
+  /* Rectangle 27 */
+
+position: absolute;
+width: 361px;
+height: 93px;
+left: 1003px;
+top: 968px;
+
+background: #D9D9D9;
+border-radius: 10px;
+
+}
+
+.rincian_kalori_1 {
+  /* Rectangle 26 */
+
+position: absolute;
+width: 361px;
+height: 93px;
+left: 1534px;
+top: 968px;
+
+background: #D9D9D9;
+border-radius: 10px;
+
+}
+
+.rincian_kalori {
+  /* Rectangle 26 */
+
+position: absolute;
+width: 361px;
+height: 93px;
+left: 1534px;
+top: 968px;
+
+background: #D9D9D9;
+border-radius: 10px;
+
+}
+  .bulan_Selesai {
+/* Rectangle 22 */
+
+position: absolute;
+width: 361px;
+height: 61px;
+left: 536px;
+top: 825px;
+
+background: #FF8080;
+border-radius: 10px;
+
+  }
+  
+  .v19_21 {
+  /* Bulan */
+  
+  position: absolute;
+  width: 80px;
+  height: 36px;
+  left: 1258px;
+  top: 254px;
+  
+  font-family: 'Inria Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+  /* identical to box height */
+  text-align: center;
+  
+  color: #000000;
+  
+  
+  }
+  .v19_23 {
+  /* Sampai */
+  
+  position: absolute;
+  width: 103px;
+  height: 36px;
+  left: 1533px;
+  top: 254px;
+  
+  font-family: 'Inria Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+  /* identical to box height */
+  text-align: center;
+  
+  color: #000000;
+  
+  
+  }
+  .v19_22 {
+    width: 29px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 254px;
+    left: 511px;
+    font-family: Inria Serif;
+    font-weight: Regular;
+    font-size: 30px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v19_25 {
+  /* Rectangle 11 */
+  
+  position: absolute;
+  width: 154px;
+  height: 52px;
+  left: 1347px;
+  top: 250px;
+  
+  background: #FF8080;
+  border-radius: 10px;
+  
+  }
+  
+  .bulan_Mulai {
+    position: absolute;
+    width: 154px;
+    height: 52px;
+    background: #FF8080;
+    border-radius: 10px;
+    font-size: 25px;
+    text-align: center;
+  
+  
+  }
+  
+  .v19_26 {
+    width: 34px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 258px;
+    left: 207px;
+    font-family: Inria Serif;
+    font-weight: Regular;
+    font-size: 30px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v19_17 {
+    width: 62px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 250px;
+    left: 892px;
+    font-family: Inria Serif;
+    font-weight: Regular;
+    font-size: 30px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v19_13 {
+    width: 87px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 250px;
+    left: 739px;
+    font-family: Inria Serif;
+    font-weight: Regular;
+    font-size: 30px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v19_19 {
+  /* Sarapan Berlaku */
+  
+  position: absolute;
+  width: 257px;
+  height: 39px;
+  left: 1441px;
+  top: 190px;
+  
+  font-family: 'Inria Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+  text-decoration-line: underline;
+  
+  color: #000000;
+  
+  
+  }
+  .name {
+    color: #fff;
+  }
+  .v5_445 {
+    width: 46px;
+    height: 41px;
+    background: rgb(255, 2, 2);
+    opacity: 1;
+    position: absolute;
+    top: 317px;
+    left: 148px;
+    overflow: hidden;
+  }
+  .v5_459 {
+    width: 46px;
+    height: 41px;
+    background: url("../images/v5_459.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v5_457 {
+    width: 46px;
+    height: 41px;
+    background: url("../images/v5_457.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  
+  .v5_452 {
+    width: 9px;
+    height: 8px;
+    background: url("../images/v5_452.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v5_453 {
+    width: 9px;
+    height: 8px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+  }
+  
+  
+  .v5_456 {
+    width: 45px;
+    height: 40px;
+    background: url("../images/v5_456.png");
+    opacity: 1;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+    border: 10.595824241638184px solid rgb(255, 255, 255);
+  }
+  .v5_460 {
+  /* SARAPAN PAGI */
+
+position: absolute;
+width: 285px;
+height: 44px;
+left: 105px;
+top: 287px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 22px;
+/* or 62% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 1px;
+text-transform: uppercase;
+
+color: #000000;
+
+
+  
+  
+  }
+  .v19_30 {
+/* Rectangle 24 */
+
+position: absolute;
+width: 891px;
+height: 807px;
+left: 1004px;
+top: 137px;
+
+background: #D9D9D9;
+border-radius: 10px;
+
+  }
+  .v5_462 {
+/* Line 6 */
+
+position: absolute;
+width: 829px;
+height: 0.99px;
+left: 105px;
+top: 331.72px;
+
+border: 1px solid #000000;
+transform: rotate(-0.05deg);
+
+  
+  }
+  .v51_463{
+    /* Line 3 */
+  
+/* Line 5 */
+
+position: absolute;
+width: 829px;
+height: 0.48px;
+left: 105px;
+top: 557.24px;
+
+border: 1px solid #000000;
+transform: rotate(-0.05deg);
+z-index: 999;
+
+  
+  }
+  
+  
+  .v52_464{
+/* Line 2 */
+
+position: absolute;
+width: 829px;
+height: 0.28px;
+left: 105px;
+top: 774.72px;
+
+border: 1px solid #000000;
+transform: rotate(-0.05deg);
+z-index: 999;
+
+    
+  }
+  
+  .v5_464 {
+    width: 48px;
+    height: 36px;
+    background: url("../images/v5_464.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 793px;
+    left: 148px;
+    overflow: hidden;
+  }
+  .v5_465 {
+    width: 48px;
+    height: 36px;
+    background: url("../images/v5_465.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v5_466 {
+    width: 48px;
+    height: 36px;
+    background: rgb(255, 4, 4);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+  }
+  .v5_467 {
+    width: 35px;
+    height: 26px;
+    background: url("../images/v5_467.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 4px;
+    left: 6px;
+    overflow: hidden;
+  }
+  .v5_468 {
+    width: 35px;
+    height: 26px;
+    background: url("../images/v5_468.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v5_469 {
+    width: 35px;
+    height: 26px;
+    background: url("../images/v5_469.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v5_470 {
+  /* https://lottiefiles.com/animations/plus-mmSETO05JX */
+  
+  position: absolute;
+  width: 46px;
+  height: 41px;
+  left: 148px;
+  top: 559px;
+  
+  
+  }
+  .v5_471 {
+    width: 35px;
+    height: 26px;
+    background: url("../images/v5_471.png");
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    border: 0px solid rgba(37,181,63,1);
+  }
+  .v5_472 {
+    width: 10px;
+    height: 7px;
+    background: url("../images/v5_472.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 17px;
+    left: 22px;
+    overflow: hidden;
+  }
+  .v5_473 {
+    width: 10px;
+    height: 7px;
+    background: url("../images/v5_473.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  
+  .v5_475 {
+    background: url("../images/v5_475.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 0.023426666855812073;
+    position: absolute;
+    top: 55px;
+    left: 48px;
+    overflow: hidden;
+  }
+  .v5_476 {
+    background: url("../images/v5_476.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 18px;
+    left: 25px;
+    overflow: hidden;
+  }
+  .v5_477 {
+    width: 47px;
+    height: 35px;
+    background: url("../images/v5_477.png");
+    opacity: 1;
+    position: absolute;
+    top: 79px;
+    left: 80px;
+    border: 10.595824241638184px solid rgba(37,181,63,1);
+  }
+  .name {
+    color: #fff;
+  }
+  .v5_481 {
+    width: 46px;
+    height: 41px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 559px;
+    left: 148px;
+    overflow: hidden;
+  }
+  
+  .v5_483 {
+    width: 46px;
+    height: 41px;
+    background: url("../images/v5_483.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v5_484 {
+    width: 46px;
+    height: 41px;
+    background: rgb(255, 0, 0);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+  }
+  
+  
+  .v5_496 {
+  /* makan siang */
+  
+  position: absolute;
+  width: 422px;
+  height: 73px;
+  left: 235px;
+  top: 543px;
+  
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 22px;
+  /* or 75% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  
+  color: #000000;
+  
+  
+  }
+  .v19_29 {
+  /* MAKAN MALAM */
+  
+  position: absolute;
+  width: 422px;
+  height: 73px;
+  left: 235px;
+  top: 775px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 22px;
+  /* or 75% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  
+  color: #000000;
+  
+  
+  }
+  
+  .v5_595 {
+    /* Roti Gandum */
+  
+  position: absolute;
+  width: 253px;
+  height: 66px;
+  left: 233px;
+  top: 398px;
+  
+  font-family: 'Inria Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+  
+  color: #000000;
+  
+  
+  }
+  .v5_592 {
+  /* Kalori */
+  
+  position: absolute;
+  width: 84px;
+  height: 36px;
+  left: 1698px;
+  top: 324px;
+  
+  font-family: 'Inria Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+  /* identical to box height */
+  text-align: center;
+  
+  color: #000000;
+  
+  
+  }
+  .v5_596 {
+  /* 102 */
+  
+  position: absolute;
+  width: 46px;
+  height: 36px;
+  left: 1730px;
+  top: 405px;
+  
+  font-family: 'Inria Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+  /* identical to box height */
+  text-align: center;
+  
+  color: #000000;
+  
+  
+  }
+  .v5_593 {
+  /* Kalori */
+  
+  position: absolute;
+  width: 84px;
+  height: 36px;
+  left: 1698px;
+  top: 801px;
+  
+  font-family: 'Inria Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+  /* identical to box height */
+  text-align: center;
+  
+  color: #000000;
+  
+  
+  }
+  .v19_31 {
+/* Target Kalori */
+
+position: absolute;
+width: 179px;
+height: 36px;
+left: 93px;
+top: 996px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+  
+  }
+  .v5_594 {
+  /* Kalori */
+  
+  position: absolute;
+  width: 84px;
+  height: 36px;
+  left: 1698px;
+  top: 559px;
+  
+  font-family: 'Inria Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+  /* identical to box height */
+  text-align: center;
+  
+  color: #000000;
+  
+  
+  }
+
+  .Rectangle_23 {
+    /* Rectangle 23 */
+
+position: absolute;
+width: 361px;
+height: 93px;
+left: 599px;
+top: 968px;
+
+
+background: #D9D9D9;
+border-radius: 10px;
+
+  }
+.v162_17 {
+  /* Minuman Pagi */
+
+position: absolute;
+width: 199px;
+height: 36px;
+left: 617px;
+top: 343px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+}
+.v162_16 {
+  /* Makanan Pagi */
+
+position: absolute;
+width: 194px;
+height: 36px;
+left: 190px;
+top: 343px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+}
+  .v19_3 {
+/* JADWAL SARAPAN */
+
+position: absolute;
+width: 848px;
+height: 55px;
+left: 282px;
+top: 30px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 181px;
+display: flex;
+align-items: center;
+text-align: center;
+text-decoration-line: underline;
+
+color: #000000;
+
+
+  }
+  .v19_32 {
+/* Rectangle 15 */
+
+position: absolute;
+width: 189px;
+height: 52px;
+left: 287px;
+top: 988px;
+
+background: #FF8080;
+border-radius: 10px;
+
+  
+  }
+  
